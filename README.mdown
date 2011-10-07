@@ -1,0 +1,15 @@
+# chef-pngout
+
+Installs [PNGOUT](http://en.wikipedia.org/wiki/PNGOUT).
+
+
+## Recipes
+
+* `pngout`: installs PNGOUT
+
+
+## Legal
+
+* Written by [Carlo Zottmann](http://github.com/carlo/)
+* Liability in case of anything: definitely not me.
+* License: [WTFPL](http://en.wikipedia.org/wiki/WTFPL).
